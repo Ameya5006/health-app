@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -70,3 +71,6 @@ app.*.map.json
 hs_err_pid*
 replay_pid*
 >>>>>>> 3f0ef7ad864be5966e6d5090d7ae06d7d1552c46
+=======
+flutter/ephemeral
+>>>>>>> b3b7452e14787675d8d8775578f7615fcbeb75fa
